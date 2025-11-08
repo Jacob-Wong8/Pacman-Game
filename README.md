@@ -1,5 +1,5 @@
 # Pacman-Game
-Pacman game final project for a programming course in university
+Pac-Man Game is a fun, interactive project that recreates the classic arcade experience. Players navigate mazes, collect points, and avoid ghosts using smooth controls and dynamic game logic built from scratch.
 
 ## Features
 
