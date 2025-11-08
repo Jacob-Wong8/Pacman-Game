@@ -1,0 +1,14 @@
+---
+:id: 8468452
+:submitters:
+- :name: Jacob Wong
+  :email: 23wq61@queensu.ca
+- :name: Matias Marjovsky
+  :email: matias.marjovsky@queensu.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-04-05 23:00:38.989673000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-04-05 16:00:38.989673000 Z
+:status: processed
+:score: 18.0

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\apsc142project.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\apsc142project.c",
+  "file": "C:/Users/jakee/Downloads/8468452/apsc142project.c",
+  "output": "CMakeFiles/project.dir/apsc142project.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\colours.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\colours.c",
+  "file": "C:/Users/jakee/Downloads/8468452/colours.c",
+  "output": "CMakeFiles/project.dir/colours.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\map.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\map.c",
+  "file": "C:/Users/jakee/Downloads/8468452/map.c",
+  "output": "CMakeFiles/project.dir/map.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\game.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\game.c",
+  "file": "C:/Users/jakee/Downloads/8468452/game.c",
+  "output": "CMakeFiles/project.dir/game.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\project.dir\\actor.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\actor.c",
+  "file": "C:/Users/jakee/Downloads/8468452/actor.c",
+  "output": "CMakeFiles/project.dir/actor.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -g -std=gnu++20 -o CMakeFiles\\tests.dir\\tests.cpp.obj -c C:\\Users\\jakee\\Downloads\\8468452\\tests.cpp",
+  "file": "C:/Users/jakee/Downloads/8468452/tests.cpp",
+  "output": "CMakeFiles/tests.dir/tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\colours.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\colours.c",
+  "file": "C:/Users/jakee/Downloads/8468452/colours.c",
+  "output": "CMakeFiles/tests.dir/colours.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\map.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\map.c",
+  "file": "C:/Users/jakee/Downloads/8468452/map.c",
+  "output": "CMakeFiles/tests.dir/map.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\game.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\game.c",
+  "file": "C:/Users/jakee/Downloads/8468452/game.c",
+  "output": "CMakeFiles/tests.dir/game.c.obj"
+},
+{
+  "directory": "C:/Users/jakee/Downloads/8468452/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -Werror=vla -Wall -pedantic -Wno-format -Wno-unused-parameter -fexceptions -fstack-protector-strong -std=c99 -Wextra -Werror=implicit-function-declaration -g -std=gnu11 -o CMakeFiles\\tests.dir\\actor.c.obj -c C:\\Users\\jakee\\Downloads\\8468452\\actor.c",
+  "file": "C:/Users/jakee/Downloads/8468452/actor.c",
+  "output": "CMakeFiles/tests.dir/actor.c.obj"
+}
+]

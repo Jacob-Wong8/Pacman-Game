@@ -1,0 +1,4 @@
+C:/Users/jakee/Downloads/8468452/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/jakee/Downloads/8468452/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/jakee/Downloads/8468452/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jakee/Downloads/8468452/cmake-build-debug/CMakeFiles/rebuild_cache.dir
