@@ -13,7 +13,8 @@ Pacman game final project for a programming course in university
   - Invalid or blocked movements are safely handled (no out-of-bounds or wall collisions).
 
 - **🗺️ Map Loading from File:**
-  - The map layout is dynamically loaded from an external `map.txt` file.
+  - The map layout is dynamically loaded from an external `map.txt` 
+
   - Map size (height and width) is automatically determined at runtime.
   - Spaces, walls, dots, player, and ghost positions are all parsed and stored in memory.
 
@@ -31,8 +32,4 @@ Pacman game final project for a programming course in university
 ## ⚙️ Technical Details
  - C, File I/O, Pointers, Dynamic Memory
 
----
-
-### 🧾 Summary
-A C-based Pac-Man–style terminal game that combines dynamic memory allocation, file-based map loading, and real-time color rendering.  
-Built with modular design principles, pointer arithmetic, and ANSI color output for an engaging text-based gameplay experience.
+![Pac-Man-Movie](https://github.com/user-attachments/assets/0c013910-6972-4905-9fbc-a18394c0548d)
